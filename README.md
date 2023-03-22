@@ -1,9 +1,9 @@
-# VERY UNOFFICIAL/EXPERIMENTAL PORT OF golang TO SICORTEX - NOT INTENDED TO BE ANY PART OF OFFICIAL GOLANG RELEASES
-# IF THIS VIOLATES AND TERMS/AGREEMENTS WITH DISTRIBUTION PLEASE INFORM ME AND I WILL REMOVE
+## VERY UNOFFICIAL/EXPERIMENTAL PORT OF golang TO SICORTEX - NOT INTENDED TO BE ANY PART OF OFFICIAL GOLANG RELEASES
+## IF THIS VIOLATES ANY TERMS/AGREEMENTS WITH DISTRIBUTION PLEASE INFORM ME AND I WILL REMOVE
 
 ## Background
 
-Back about 10 years or so ago a company Sicortex made mips based HPC supercomputers. They also had a deskside version the PDS-072.
+Back about 13 years or so ago a company Sicortex made mips based HPC supercomputers. They also had a deskside version the PDS-072.
 It was a 64 bit Little Endian Gentoo based machine. The PDS-072 had 12 6-core cpus and between 48 - 96 GB or Ram.
 Nothing about its performance was hugely exciting but it was based on a Kautz graph for node interconnectivity.
 Also around golang 1.6 a mips 64 port was released. This is an attempt to try and port this to my little sicortex PDS-072.
