@@ -1,7 +1,6 @@
-## VERY UNOFFICIAL/EXPERIMENTAL PORT OF golang TO SICORTEX - NOT INTENDED TO BE ANY PART OF OFFICIAL GOLANG RELEASES
-## IF THIS VIOLATES ANY TERMS/AGREEMENTS WITH DISTRIBUTION PLEASE INFORM ME AND I WILL REMOVE
+### Port of golang TO SICORTEX - NOT INTENDED TO BE ANY PART OF OFFICIAL GOLANG RELEASES
 
-## Background
+### Background
 
 Back about 13 years or so ago a company Sicortex made mips based HPC supercomputers. They also had a deskside version the PDS-072.
 It was a 64 bit Little Endian Gentoo based machine. The PDS-072 had 12 6-core cpus and between 48 - 96 GB or Ram.
